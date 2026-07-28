@@ -21,7 +21,7 @@ All content in this repository is created with strict adherence to professional 
 The following must **never** appear in this repository:
 
 ### Employer / Company Information
-- Any code written at current or previous employers (e.g., AWS, Pure Storage)
+- Any code, documentation, designs, or other artifacts created for a current or former employer
 - Internal system designs, architecture diagrams, or workflows
 - Internal service names, APIs, or infrastructure details
 - Operational practices that are not publicly documented
@@ -99,7 +99,8 @@ All systems in this repository follow:
 
 - All external ideas are attributed to public sources
 - Open-source code usage follows license requirements
-- No proprietary knowledge is presented as original work
+- No proprietary information is included, paraphrased, transformed, or used as
+a source for published designs or implementations
 
 ---
 
@@ -108,9 +109,11 @@ All systems in this repository follow:
 This repository reflects **personal learning only** and does not represent any employer.
 
 All content is:
-- created outside of work hours
-- based on public knowledge or original work
-- reviewed for confidentiality before publishing
+- created independently using personal accounts, equipment, and repositories
+- based only on public sources, appropriately licensed open-source material,
+  synthetic data, or original work
+- reviewed for confidentiality, attribution, and accidental secret exposure
+  before publication
 
 ---
 
