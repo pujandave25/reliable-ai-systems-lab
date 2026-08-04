@@ -88,10 +88,10 @@ All systems in this repository follow:
 - “Comparing model routing strategies using mock providers”
 
 ### ❌ Not Acceptable
-- “Recreating Amazon Connect pipeline architecture”
-- “Using real internal logs or failure cases”
-- “Describing internal service interactions”
-- “Sharing production metrics or system behavior”
+- Recreating a current or former employer’s internal system architecture
+- Using non-public logs, incidents, or failure cases
+- Describing non-public service interactions or operational workflows
+- Sharing unpublished production metrics, benchmarks, or system behavior
 
 ---
 
