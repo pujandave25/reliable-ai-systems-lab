@@ -1,0 +1,1 @@
+Standardize context, decision, alternatives, consequences, and revisit conditions

@@ -1,0 +1,1 @@
+Define the first lab’s question, scope, non-goals, and acceptance criteria

@@ -1,0 +1,1 @@
+Standardize hypothesis, setup, method, results, limitations, and next steps
